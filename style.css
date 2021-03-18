@@ -1,0 +1,20 @@
+#login {
+    margin:0 0 20px 0;
+}
+.one {
+    display:block;
+    width:150px;
+    height:120px;
+    margin:30px auto 30px;
+    
+}
+#reg, #input {
+    margin:15px 5px 0 5px; 
+}
+
+a {
+    display:block;
+    margin:8px 0 0 0;
+    font:15px Times New Roman;
+}
+

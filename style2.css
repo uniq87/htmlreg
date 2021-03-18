@@ -1,0 +1,42 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.one {
+    display:block;
+    width:200px;
+    height:280px;
+    margin:20px auto 20px;
+    border:0px solid;
+}
+
+.fio {
+    margin:10px 0 5px 10px;
+}
+
+.fio1 {
+    margin:0;
+}
+
+p {
+    font:14px Times New Roman;
+    color:#939393FF;
+    margin:3px 0 3px 5px;
+    padding:5px 0 0 0;
+}
+
+#select1, #select2, #select3 {
+    margin:5px 0 0 3px;
+}
+
+#submit {
+    display:block;
+    width:130px;
+    height:33px;
+    margin:10px 0 0 5px;
+}
+
+#f, #m {
+    margin:0 0 0 5px;
+}
